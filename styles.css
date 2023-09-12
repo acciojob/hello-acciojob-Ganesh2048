@@ -9,6 +9,9 @@
 .hello-accio{
 	color:#ffffff;
 Left-margin: 32px;
-padding: 10px;
+padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
 	
 }
